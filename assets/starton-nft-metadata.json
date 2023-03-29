@@ -1,6 +1,7 @@
 {
   "name": "Starton x Epitech NFT",
   "description": "This NFT has been minted for the Starton x Epitech Workshop",
+  "cid": "bafkreid5t57ohaws4vydcalkdns32ik35zrszs6uo7xi77sdccqjfokcba",
   "image": "ipfs://ipfs/YOUR_IMAGE_CID",
   "attributes": {
     "size": "42",
